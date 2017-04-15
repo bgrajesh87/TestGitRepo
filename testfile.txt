@@ -1,1 +1,3 @@
 this is my test file 
+2nd line in test file
+some random lines to update the file and commiting it again to git
